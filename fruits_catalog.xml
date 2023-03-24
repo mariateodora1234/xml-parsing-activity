@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <FRUITS>
+    <NAME>apple</NAME>
+    <SCIENTIFICNAME>Malus domestica</SCIENTIFICNAME>
+    <CHARACTERISTICS>fruitiness, acidity, sweetness, juiciness, crispness, hardness, toughness, mealiness, vegetativeness, and astringency</CHARACTERISTICS>
+    <ORIGINATED>Kazakhstan, in central Asia east of the Caspian Sea.</ORIGINATED>
+    <HARVESTSEASON>September is typically the best time to pick apples, and generally, they should be harvested between late summer and late October.</HARVESTSEASON>
+    <BENEFITS>
+      <BENEFITS id="1">Apples are an incredibly nutritious fruit that offers multiple health BENEFITSs. </BENEFITS>
+      <BENEFITS id="2">They're rich in fiber and antioxidants.</BENEFITS>
+      <BENEFITS id="3">Eating them is linked to a lower risk of many chronic conditions, including diabetes, heart disease, and cancer.</BENEFITS>
+      <BENEFITS id="4">Eating them is linked to a lower risk of many chronic conditions, including diabetes, heart disease, and cancer.</BENEFITS>
+    </BENEFITS>    
+  </FRUITS>
+  <FRUITS>
+    <NAME>hawthorn</NAME>
+    <SCIENTIFICNAME>Crataegus pinnatifida</SCIENTIFICNAME>
+    <CHARACTERISTICS>it can range from mealy, to hard, dry, and powdery, to crisp and juicy. The fruit tastes a bit bitter or sour, yet sweet.</CHARACTERISTICS>
+    <ORIGINATED>Northern Hemisphere in Europe, Asia, North Africa, and North America.</ORIGINATED>
+    <HARVESTSEASON>harvested between September and October, depending on the species</HARVESTSEASON>
+    <BENEFITS>
+      <BENEFITS id="1">Hawthorn is used to help protect against heart disease and help control high blood pressure and high cholesterol.</BENEFITS>
+      <BENEFITS id="2">Both animal and human studies suggest hawthorn increases coronary artery blood flow, improves circulation, and lowers blood pressure.</BENEFITS>
+      <BENEFITS id="3">It has also been used on the skin to treat boils and skin sores.</BENEFITS>
+      <BENEFITS id="4">boost the immune system</BENEFITS>
+    </BENEFITS>
+  </FRUITS>
+  <FRUITS>
+    <NAME>pear</NAME>
+    <SCIENTIFICNAME>Pyrus</SCIENTIFICNAME>
+    <CHARACTERISTICS>A pear is a sweet, juicy fruit that is narrow near its stalk, and wider and rounded at the bottom. Pears have white flesh and thin green, yellow, or brown skin.</CHARACTERISTICS>
+    <ORIGINATED>China and Asia Minor until the Middle East.</ORIGINATED>
+    <HARVESTSEASON>The harvest season is from late August to early October.</HARVESTSEASON>
+    <BENEFITS>
+      <BENEFITS id="1">In addition to being a good source of fiber, pears are also high in vitamins C and K, as well as potassium and antioxidants.</BENEFITS>
+      <BENEFITS id="2">They're also especially good for gut health, and they may help keep you regular, too.</BENEFITS>
+      <BENEFITS id="3">Have anti-inflammatory properties.</BENEFITS>
+      <BENEFITS id="4">May offer anticancer effects.</BENEFITS>
+    </BENEFITS>
+  </FRUITS>
+  <FRUITS>
+    <NAME>loquat</NAME>
+    <SCIENTIFICNAME>Eriobotrya japonica</SCIENTIFICNAME>
+    <CHARACTERISTICS>The thin skin is slightly downy, and the flesh, which can be deep orange, yellow, or creamy white, varies in texture from the crispness of a firm cantaloupe to the juiciness of a ripe peach. The flavor is a pleasant blend of apricot, plum and cherry with floral overtones, and is quite sweet when ripe.</CHARACTERISTICS>
+    <ORIGINATED>southeastern and central China</ORIGINATED>
+    <HARVESTSEASON>from October to February</HARVESTSEASON>
+    <BENEFITS>
+      <BENEFITS id="1">Loquat fruit is especially high in vitamin A and beta carotene, an antioxidant.</BENEFITS>
+      <BENEFITS id="2">These nutrients lower the risk of colorectal, lung, and other cancers.</BENEFITS>
+      <BENEFITS id="3">The loquat leaf, seed, and fruit have been shown to reduce inflammation, the body's over-reactive response to an irritant like germs or allergens.</BENEFITS>
+      <BENEFITS id="4">High in nutrients,Loquats are low-calorie fruits that provide numerous vitamins and minerals, making them very nutritious.</BENEFITS>
+    </BENEFITS>
+  </FRUITS>
+  <FRUITS>
+    <NAME>cherries</NAME>
+    <SCIENTIFICNAME>Prunus avium</SCIENTIFICNAME>
+    <CHARACTERISTICS>The fruit is a fleshy drupe (stone fruit) that is generally heart-shaped to nearly globular, measures about 2 cm (1 inch) in diameter, and varies in colour from yellow through red to nearly black. The acid content of the sweet cherry is low.</CHARACTERISTICS>
+    <ORIGINATED>Sweet cherries originated in Asia Minor in the fertile areas between the Black and Caspian seas and were likely brought to Europe by birds.</ORIGINATED>
+    <HARVESTSEASON>Cherry season is typically during the months of May to July.</HARVESTSEASON>
+    <BENEFITS>
+      <BENEFITS id="1">Cherries are low in calories and chock full of fiber, vitamins, minerals, nutrients, and other good-for-you ingredients.</BENEFITS>
+      <BENEFITS id="2">You'll get vitamins C, A, and K. Each long-stemmed fruit delivers potassium, magnesium, and calcium too.</BENEFITS>
+      <BENEFITS id="3">They also bring antioxidants, like beta-carotene, and the essential nutrient choline.</BENEFITS>
+      <BENEFITS id="4">May benefit heart health</BENEFITS>
+    </BENEFITS>
+  </FRUITS>
+  <FRUITS>
+    <NAME>almond</NAME>
+    <SCIENTIFICNAME>Prunus amygdalus</SCIENTIFICNAME>
+    <CHARACTERISTICS>Almond is a stone fruit (drupe) and consists of three layers, the outer exocarp, the middle fleshy mesocarp, and the inner endocarp. The edible part of the fruit is the seed, which can be sweet, slightly bitter or bitter.</CHARACTERISTICS>
+    <ORIGINATED>Originating in Western and Central Asia</ORIGINATED>
+    <HARVESTSEASON>Harvest occurs between February and April</HARVESTSEASON>
+    <BENEFITS>
+      <BENEFITS id="1">Lower Blood Pressure.</BENEFITS>
+      <BENEFITS id="2"> Almonds can help lower your systolic blood pressure, which offers even more protection against heart disease.</BENEFITS>
+      <BENEFITS id="3">Essential Vitamins, Minerals, and Fiber.</BENEFITS>
+      <BENEFITS id="4">Almonds are rich in valuable nutrients for your body, like magnesium, vitamin E, and dietary fiber. Stronger Bones. Better Blood Sugar Control.</BENEFITS>
+    </BENEFITS>
+  </FRUITS>
+  <FRUITS>
+    <NAME>coconut</NAME>
+    <SCIENTIFICNAME>Cocos nucifera</SCIENTIFICNAME>
+    <CHARACTERISTICS>Its fruit, as big as a man's head and 1-2 kg in weight, is a drupe with a thin, smooth, grey-brown epicarp, a fibrous, 4-8 cm thick, mesocarp and a woody endocarp; as it is rather light, it can be carried long distances by water while keeping its germinability for a long time.</CHARACTERISTICS>
+    <ORIGINATED>originated somewhere in Indo-Malaya</ORIGINATED>
+    <HARVESTSEASON>season all year long.</HARVESTSEASON>
+    <BENEFITS>
+      <BENEFITS id="1">Coconut is low in carbs, so it is the best substitute for carb-rich snacks.</BENEFITS>
+      <BENEFITS id="2">It contains minerals and nutrients such as potassium, sodium, manganese, vitamin B, copper, and iron.</BENEFITS>
+      <BENEFITS id="3">Manganese is beneficial for our bone health.</BENEFITS>
+      <BENEFITS id="4">Help you lose weight.</BENEFITS>
+    </BENEFITS>
+  </FRUITS>
+  <FRUITS>
+    <NAME>raspberries</NAME>
+    <SCIENTIFICNAME>Rubus idaeus</SCIENTIFICNAME>
+    <CHARACTERISTICS>Raspberries are a popular berry with a rich color and sweet juicy taste. They are a good source of vitamins, minerals, and antioxidants. Raspberries can range in color from the popular red and black varieties to purple, yellow, or golden.</CHARACTERISTICS>
+    <ORIGINATED>indigenous to Asia Minor and North America.</ORIGINATED>
+    <HARVESTSEASON>Summer raspberries are generally ripe for harvesting in June/July, autumn raspberries only between August and October.</HARVESTSEASON>
+    <BENEFITS>
+      <BENEFITS id="1">They provide potassium, essential to heart function, and proven to lower blood pressure.</BENEFITS>
+      <BENEFITS id="2">The omega-3 fatty acids in raspberries can help prevent stroke and heart disease.</BENEFITS>
+      <BENEFITS id="3">They also contain a mineral called manganese, which is necessary for healthy bones and skin and helps regulate blood sugar.</BENEFITS>
+      <BENEFITS id="4">helping you lose weight and control your blood sugar levels.</BENEFITS>
+    </BENEFITS>
+  </FRUITS>
+  <FRUITS>
+    <NAME>blackberries</NAME>
+    <SCIENTIFICNAME>Rubus subg. Rubus</SCIENTIFICNAME>
+    <CHARACTERISTICS>The blackberry is purple-black when ripe, that is, towards the month of September in the northern hemisphere. Edible and with a sweet taste, it is a false fruit, since it does not come from the pistil of the flower, but is formed by its carpels transformed into drupelets.</CHARACTERISTICS>
+    <ORIGINATED>originated in Armenia and was introduced to Europe in 1835</ORIGINATED>
+    <HARVESTSEASON>Blackberries start to ripen in July and August, but watch for early bloomers in late June.</HARVESTSEASON>
+    <BENEFITS>
+      <BENEFITS id="1">Boosts your body functions.</BENEFITS>
+      <BENEFITS id="2">Blackberries are an excellent source of vitamin C, vitamin K and manganese.</BENEFITS>
+      <BENEFITS id="3">Improves digestion and blood sugar levels.</BENEFITS>
+      <BENEFITS id="4">Reduces inflammation. Prevents cardiovascular disease.</BENEFITS>
+    </BENEFITS>
+  </FRUITS>
+  <FRUITS>
+    <NAME>watermelon</NAME>
+    <SCIENTIFICNAME>Benincasa hispida</SCIENTIFICNAME>
+    <CHARACTERISTICS>Winter melons are large fruits, averaging 15 to 80 centimeters in length, and have a bulbous, round to oblong shape with blunt, curved ends. The melons are covered in a thin but tough, light to dark green skin, often enveloped in a textured, chalky layer of wax, depending on the variety.</CHARACTERISTICS>
+    <ORIGINATED>parts of Southern Asia</ORIGINATED>
+    <HARVESTSEASON>Winter melons have a long growing season with flowering occurring 50-80 days after planting. The fruit can be harvested anytime from one week after anthesis (for immature fruit for drying or pickling) with fruit maturity occurring by two months.</HARVESTSEASON>
+    <BENEFITS>
+      <BENEFITS id="1">It helps improve digestion, promote bowel movements, prevent constipation, and enhance gut health.</BENEFITS>
+      <BENEFITS id="2">The high soluble fiber in winter melons helps fight inflammation, lower cholesterol, regulate glucose levels, and lower your ability to absorb fat.</BENEFITS>
+      <BENEFITS id="3">It's rich in fiber. </BENEFITS>
+      <BENEFITS id="4">Improves energy levels.</BENEFITS>
+    </BENEFITS>
+  </FRUITS>
+</CATALOG>
